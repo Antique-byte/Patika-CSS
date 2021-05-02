@@ -1,0 +1,25 @@
+p {
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+}
+.position {
+    text-align: center;
+}
+
+.orangeish {
+    color: #de8971;
+}
+
+.purpleish {
+    color: #7b6079;
+}
+
+.blueish {
+    color: #a7d0cd;
+}
+
+#list1 {
+    list-style-position: inside;
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+}
